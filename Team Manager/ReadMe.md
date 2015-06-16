@@ -1,2 +1,2 @@
 Team Manager is an application for coaches of team sports. It helps manage team changes during games,
-tracks players including their positions and playing statistics, training and results. The application is intended to be used during before, during and after the game to prepare, control and analyse the team's activities.
+tracks players including their positions and playing statistics, training and results. The application is intended to be used before, during and after the game to prepare, control and analyse the team's activities.
